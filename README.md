@@ -1,6 +1,6 @@
 # learning-spec
 
-`learning-spec` 是面向人类长期学习系统的规划骨架。
+`learning-spec` 是一个驱动 AI 为人类规划长期学习骨架的指导系统。
 
 它围绕更符合人类学习奖励机制与执行现实的结构建立：
 
