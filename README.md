@@ -27,7 +27,7 @@
 - `level-template.md`：阶段跃迁模板
 - `zone-template.md`：奖励化领域模板
 - `capability-template.md`：最小能力单元模板
-- `task-template.md`：近程执行单元模板
+- `task-template.md`：近程执行单元模板(不在规划阶段生成)
 - `execution-state-template.md`：位于当前 `level` 目录中的连续性状态模板
 - `tools/validate-learning-spec.mjs`：学习版结构校验器
 
