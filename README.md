@@ -6,7 +6,7 @@
 
 - `project-contract`：长期现实约束
 - `level`：阶段跃迁单元
-- `zone`：奖励化领域单元
+- `zone`：领域专家单元
 - `capability`：最小可验证能力单元
 - `task`：围绕当前 capability 生成的近程执行单元
 - `execution-state`：连续性状态账本
@@ -42,10 +42,10 @@
 
 ## 核心原则
 
-- `capability` 是最小奖励单元
-- `zone` 是中等奖励单元
-- `level` 是大奖励单元
-- `task` 只在当前 capability 被执行时近程生成
+- `capability` 仅专注一个能力
+- `zone` 囊括该领域的各项能力, 成为此领域的专家
+- `level` 能力交叉, 开始觉醒, 融会贯通, 段位上升
+- `task` 只在当前 capability 被执行时即时生成
 - 能力成立的判断必须依赖可感知证据，而不是主观感觉
 
 ## 校验
